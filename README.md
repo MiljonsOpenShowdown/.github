@@ -6,9 +6,10 @@ This Org hosts the tools, resources, and projects related to MOS and it's events
 ## The responsible
 | Who | What | Where | 
 | :--: | :--: | :--: |
-| [Hawk](https://github.com/ThaNightHawk) | Frontend/Backend/Design | Everything MOS |
-| [Miljon](https://github.com/MiljonBS) | Frontend/Design | Everything MOS |
+| [Batthew](https://github.com/Batthew627) | Frontend/Backend/Design | Everything MOS |
 | [Gloop](https://github.com/gloopybs) | Rules/Text | Everything MOS |
+| [Hawk](https://github.com/ThaNightHawk) | Frontend/Backend/Design | Everything MOS |
+| [Miljon](https://github.com/MiljonBS) | Owner - Frontend/Design | Everything MOS |
 
 # Repository Overview
 
