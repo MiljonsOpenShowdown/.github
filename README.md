@@ -1,11 +1,7 @@
-![MOS Logo](./MOSRepo.png)
+![MOS Logo](https://raw.githubusercontent.com/MiljonsOpenShowdown/.github/refs/heads/main/MOSRepo.png)
 
-Welcome to Miljon's Open Showdown GitHub-organization!
-
+## Miljon's Open Showdown - GitHub Org
 This Org hosts the tools, resources, and projects related to MOS and it's events.
-
-## MOSWebsite
-A cutting-edge tournament-platform, that aims to make hosting MOS tournaments and other events as easy as possible.
 
 ## The responsible
 | Who | What | Where | 
@@ -14,8 +10,7 @@ A cutting-edge tournament-platform, that aims to make hosting MOS tournaments an
 | [Miljon](https://github.com/MiljonBS) | Frontend/Design | Everything MOS |
 | [Gloop](https://github.com/gloopybs) | Rules/Text | Everything MOS |
 
-
-## Repository Overview
+# Repository Overview
 
 ### Project links
 
