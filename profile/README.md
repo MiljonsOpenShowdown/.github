@@ -19,6 +19,9 @@ This Org hosts the tools, resources, and projects related to MOS and it's events
   - [Website](https://github.com/MiljonsOpenShowdown/MOSWebsite)
   - [Docs](https://github.com/MiljonsOpenShowdown/docs)
   - [API](https://github.com/MiljonsOpenShowdown/api)
+ 
+- MOSViewer
+  - [MOSViewer](https://github.com/MiljonsOpenShowdown/chroviewer)
 
 ### Community Guidelines
 
