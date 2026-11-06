@@ -1,7 +1,7 @@
 ![MOS Logo](https://raw.githubusercontent.com/MiljonsOpenShowdown/.github/refs/heads/main/MOSRepo.png)
 
 ## Miljon's Open Showdown - GitHub Org
-This Org hosts the tools, resources, and projects related to MOS and it's events.
+This Org hosts the tools, resources, and projects related to MOS and its events.
 
 ## The responsible
 | Who | What | Where | 
